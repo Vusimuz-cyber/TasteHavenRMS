@@ -1,0 +1,22 @@
+*.iml
+.gradle/
+.idea/
+
+# Android build
+build/
+*/build/
+.cxx/
+.externalNativeBuild/
+captures/
+
+local.properties
+
+Lib/
+Scripts/
+pyvenv.cfg
+RMS/
+
+
+*.log
+.DS_Store
+Thumbs.db
